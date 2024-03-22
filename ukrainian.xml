@@ -325,7 +325,7 @@
 	<content contentuid="h0caeb45fg0df3g453ag85begc03c6c716d87">Passive</content>
 	<content contentuid="h0cb3cb8dg4559g43adg933cg614da91cd407">We should discuss this later.</content>
 	<content contentuid="h0cbb2216g4a49g4daegb18bge0dfc35171f3">Let the majority decide</content>
-	<content contentuid="h0cc467ffgaf13g4551gbde2g3f6656046998">Fullscreen</content>
+	<content contentuid="h0cc467ffgaf13g4551gbde2g3f6656046998">Весь екран</content>
 	<content contentuid="h0cf9ef4dgd826g42c6gabacg308001baf375">Bomber Balloon - Mine High Club</content>
 	<content contentuid="h0d0bd614g3127g4a4fga4e1ga71a26dce244">Unlock the Blood Leech dragon skill for one combat round.</content>
 	<content contentuid="h0d24df70g5d41g4cdegb11agb21942f68d59">Here&apos;s a pretty queen we dwarves have landed! Her first official act is to order the desecration of her own father&apos;s remains. For shame,Commander! I&apos;d teach that wife of yours a lesson in courtly manners!</content>
@@ -346,7 +346,7 @@
 	<content contentuid="h0db67a1eg2004g4262gbcc9g316ec77379e0">Of course you know the cur&apos;s as liked as a flatulent jester, even by his own nobles, so they begged me to beg you to countermand his tax raise. &apos;Twould humiliate him publically and weaken his position as king (so they say). &apos;Fair enough,&apos; I reply; music to my ears, really. So how about it?</content>
 	<content contentuid="h0dbc6067g31d8g4631gb976g0d5126e34e34">I&apos;d exhale an existential sigh upon the hearing of such folly, yet give it no further thought but for one devilish detail in the treaty. It is I, as our foremost general, who must—quite literally—stoop to inspect their armies. An impish high priest will be present, figures fit for farce that are greeted and received with ridiculous amounts of highly ritualised protocol.</content>
 	<content contentuid="h0dc00d91gef3fg4c71g8e34g79b4c8a20cb4">Урпавління</content>
-	<content contentuid="h0dc466a0g8ec8g4852gbd55gb1070cb329f3">Display Mode:</content>
+	<content contentuid="h0dc466a0g8ec8g4852gbd55gb1070cb329f3">Режим:</content>
 	<content contentuid="h0dcd6dc6g3199g4e4fgbf43g21f1903580dd">I hope you&apos;re happy, commander, I hope you&apos;re very happy to have spoon-fed the misshapen monster misogyny by publically refusing to overthrow the Long Goodbye! Things have gone from bad to worse; brave dwarven women stood up in protest only to be apprehended. Some haven&apos;t been seen since!</content>
 	<content contentuid="h0dcf9858g2441g4babg931egd89bb1a53800">and indicated that they need to go and capture that Shipyard over there...</content>
 	<content contentuid="h0dcfe3c2g1bccg479agb37ag1e398472cf2a">Target in sight!</content>
@@ -698,7 +698,7 @@
 	<content contentuid="h1aaa0eddg8366g45e0g8d02ge32843749392">Once again you are fortunate enough, Commander, to enjoy an elven perspective on these matters, and our tests are conclusive. This dwarven product consists of no more than water, sugar and Element X, whatever that may be. Element X is a morally bankrupt factor in that it is, one: the reason for the dwarves to sell sugar water for preposterous prices even though it adds no taste, and two: early results indicate it may actually cause a variety of diseases. Falstaff denies this, but I believe in the data I have been given!</content>
 	<content contentuid="h1ab4b756gf86cg4b53gad46ga5c5e403463a">Commander, the Seven truly are happy residents in your empire, but we could see them happier still! Indulgences make the church rich and powerful, and branding newcomers with the Sign of the Seven separates those really meant for greatness and those who aren&apos;t. Yet, don&apos;t you think the naysayers are let off a bit easily? They are sent to mine and mill to be certain, but they are not actually punished for refusing the sign. Let us therefore dictate that when new families arrive that wave branding, their eldest child should be taken from them and rendered to the state as its slave! The gods will be happy, for those that fail them are punished, and you will be happy, for you&apos;ll receive full free labour!</content>
 	<content contentuid="h1ac5fcecg29d5g45d3g839fge917bd508a99">As for me, now that the all-scorching sun of war has set, I shall dawn in obscurity, an eremite-maiden of my order. The plains shall be my companions, mountain-hollows my home. The berry-bush shall feed me, the wolf I&apos;ll endeavour to evade. Let this be our final farewell, commander. May Vesta keep you pure.</content>
-	<content contentuid="h1ac8e9c9gb24bg4166g961fg8ce7cf0d7edf">Resolution:</content>
+	<content contentuid="h1ac8e9c9gb24bg4166g961fg8ce7cf0d7edf">Роздільна здатність:</content>
 	<content contentuid="h1af6d387g9e33g4d95ga4cag42ba30a7c87c">By the hammers of hell, you&apos;re going too far, commander! Keep indulging the undead and we&apos;ll all end up in a state so stifled by the Seven we won&apos;t be allowed to fart unless it&apos;s to the tune of a hymn!</content>
 	<content contentuid="h1af7b066g8441g470ag812agdb439af94cf3">So not only would people who have the wits about them to deny mutilation be sent to the hellholes that have become the empire&apos;s factories, but they must give up one of their children as well? Surrender them to slavery? Just when I thought undead delirium had reached its black peak, ashen clouds unfurl and bare a yet greater height of lunacy!</content>
 	<content contentuid="h1afd940eg5d8fg471agbce5gd83c472116b0">This job would be a lot easier if I wasn&apos;t so afraid of heights!</content>
@@ -2129,7 +2129,7 @@ Armour [2]</content>
 	<content contentuid="h4c739d39g453dg4cbaga12fg51015b6cf466">Dwarven Discounts</content>
 	<content contentuid="h4c8cec9fg64e7g4c02g9509g73323b681bb2">Spoils of War</content>
 	<content contentuid="h4c8d505agbd67g4a39g9e85g82b0db2ad78d">Grumio the grease monkey reporting in, milord!</content>
-	<content contentuid="h4c90bd4dg7293g49e0g8ebfg9b57607a2110">GRAPHICS</content>
+	<content contentuid="h4c90bd4dg7293g49e0g8ebfg9b57607a2110">Відображення</content>
 	<content contentuid="h4c93b8d4g18efg4de2gb775g302aff3b82d1">Closed</content>
 	<content contentuid="h4ca5d3b3gfd48g4484gac7age480d29c1f93">That stunt Henry pulled, or rather didn&apos;t pull, is truly symptomatic of him, commander! This is exactly what he and I had words over ... choice words. On the other hand, I must admit those elves were deeply out of their depth out there and only have themselves to blame.</content>
 	<content contentuid="h4cb7ea04gfbeag4f84g97f7g832f09b261e1">Attaboy! Now we&apos;re cooking! With all the dirt we&apos;ll find in there we can squeeze him tighter than my boobs are in this bloody blouse!</content>
@@ -3568,7 +3568,7 @@ Please check your network connection and firewall settings.</content>
 	<content contentuid="h80548617gf4c8g4e4cg810dg7c185bfc13e4">O dear, o dear. They say they stole some kind of secret little book from King Thelor. What an outrage! Imagine it got out. People could get hurt! We were all young once! I mean, if every indiscretion ... o dear, o dear!</content>
 	<content contentuid="h80562c9bga720g45d1g9275g4789a3fa54f4">I&apos;ll remember this episode fondly, commander; reminisce with a choice sherry as the sound of your ring shattering impish jaw resounds in my memory once more. A symphony of satisfaction.</content>
 	<content contentuid="h805a441dg9cd2g4847gb934g25d1a7474500">Have you met Oscar, commander? Best ship&apos;s cat around!</content>
-	<content contentuid="h805f8f04g52dag4a71ga5e4g44d56b47163f">Windowed</content>
+	<content contentuid="h805f8f04g52dag4a71ga5e4g44d56b47163f">Вікно</content>
 	<content contentuid="h806cbd22g8022g4b98ga2f6g186b18a7b2ea">Official pictures released: emperor not a half-dragon after all? Reports on recent battles</content>
 	<content contentuid="h8076f728gb4d3g4b4egb5d7ge619ce11b564">Playing ...</content>
 	<content contentuid="h8077c0a5gc64fg4476gaae3g861c24bb928f">Movement Points:</content>
@@ -3729,7 +3729,7 @@ Please check your network connection and firewall settings.</content>
 	<content contentuid="h85dbaf32g98b7g41ccga07bgd5b495c531cc">I&apos;m glad you do indeed agree with me, Commander. Trinculo&apos;s proposition was a particularly ghoulish one and I hope to leave this notion behind us once and for all—even if wild orcs will gladly eat what elf they can get their claws on.</content>
 	<content contentuid="h85e0240dg6948g4d6cgb75fg778fb2792c06">PRIESTS OF THE SEVEN PLACED ABOVE THE LAW! FREE TO PRACTICE ALLEGED VICES</content>
 	<content contentuid="h85e1ef6cgc776g4397gac4ag6f7abdaa8eea">Good show, commander! It&apos;s an unthinkable thing indeed for the government to regulate the affairs of the bedroom. I already regard tax collectors as violators of my privacy, let alone sex inspectors!</content>
-	<content contentuid="h85e457c3g0d2fg43bcg8300g04ba452a5ac4">Invert Mouse Y-Axis Dragon</content>
+	<content contentuid="h85e457c3g0d2fg43bcg8300g04ba452a5ac4">Дракон: інвертувати вісь Y мишки</content>
 	<content contentuid="h85e856aagb55fg4dcfg90bag6d747716a3c7">Defense influences the importance of the &lt;b&gt;amount&lt;/b&gt; of units when defending.</content>
 	<content contentuid="h85e8e8d7gd963g4fe0gb450g06dfc7db345e">Start chapter 2.</content>
 	<content contentuid="h85f09d45gb02bg4fadg9a12g14b48afb57ec">Will you ban art that is critical of your rule?</content>
@@ -4229,7 +4229,7 @@ Range [1]</content>
 	<content contentuid="h967fa813gdd47g4575g8f63g0e1bd30ca9f5">The most versatile of dragon kinds, the Sabre Dragon is a formidable foe that combines might and mind to overcome his enemies.</content>
 	<content contentuid="h9689a61bgd07bg4e01ga1b0ge52beca69fc4">I&apos;m loosing altitude!</content>
 	<content contentuid="h968ed181g3f0cg4a68gaa53g09b665495735">Let&apos;s just say I&apos;d love to be a fly on the wall in the enemy generals&apos; quarters, commander. I bet there&apos;s enough cold sweat in there to freeze a bull in heat!</content>
-	<content contentuid="h96a141dcgf643g4548g9ab4g6136e142917f">Mouse</content>
+	<content contentuid="h96a141dcgf643g4548g9ab4g6136e142917f">Мишка</content>
 	<content contentuid="h96ac6ddcgfcf7g408cg9e63geca94691b355">It&apos;s all gone... all broken... all but a memory... Claudella and her works are one: dead... faded away... forgotten. And why, Commander? For what? For the sake of her loving a woman, not a man. For the sake of dodging a diplomatic incident. For futile gods and their futile subjects. Such a futile pity.</content>
 	<content contentuid="h96beba6eg78e3g46a0ga83ag81e82b6cdd10">The dragon&apos;s passive health regeneration is improved by [1]%.</content>
 	<content contentuid="h96c0ac7dg4aa8g4366g8d07g204c304eef89">You haven&apos;t performed any moves this turn!
@@ -4239,7 +4239,7 @@ Press the End Turn button again if you are sure you want to continue.</content>
 	<content contentuid="h96d6b6cagb714g489cga4d2gbafa04fc08f0">The dragon conquers and the throne passes from pig to pig. What a difference a day makes...</content>
 	<content contentuid="h96e14c1dge801g4aa0gb22fg0e35fa8c5dd3">Enemy&apos;s latest invention &quot;not really useful&quot; say our pilots</content>
 	<content contentuid="h96e1d738g9e77g4f97g8ccbgbd4b2f3cf8b7">Pestilence take me, commander, if the vices of men aren&apos;t harder to stamp out than all the weeds in the wilderness! Where my inquisitors go, they wither; where they leave, bloom anew in all their obscene glory. I merely try to protect women from the abject horrors that are rape and pillage, yet I find myself fighting a battle so uphill as to be vertical!</content>
-	<content contentuid="h96efa1ffg9319g466egb270g49ebcc7c7b89">Invert Mouse Y-Axis Camera</content>
+	<content contentuid="h96efa1ffg9319g466egb270g49ebcc7c7b89">Камера: інвертувати вісь Y мишки</content>
 	<content contentuid="h96fa6a6eg8c4ag4895gb5e0g96c88ddd31e8">Whereas Yorrick has a point, it is his laws that have been broken, I would render this woman unto the elves all the same. She deserves a lawyer, a proper defence, rather than a priest and the charade of last rites.</content>
 	<content contentuid="h96fa9914g078eg4328gbcf2g5eabdfc2026b">Fly, My Flaming Pretties!</content>
 	<content contentuid="h96fdab57g6968g4d43g8a7ag9aa639cbb8e5">Don&apos;t worry, Commander! I didn&apos;t breathe another word about Scarlett and her... ways. It&apos;s a relief to know I was right all along though! When a women says &apos;no&apos; to me, we all know what that means: not interested in men. Period.</content>
@@ -4334,7 +4334,7 @@ Press the End Turn button again if you are sure you want to continue.</content>
 	<content contentuid="h99c6daf3gf7c7g4c51gbe5bgaf8b4f727a94">All enemy units in a [1] meter radius around you are paralyzed with fear for [2] seconds.</content>
 	<content contentuid="h99c98565gd0a4g41edgbb3egc0ba68817297">EMPEROR LETS TEACHERS BEAT CHILDREN TO DEATH! &apos;GOOD MOTIVATION&apos; HE CLAIMS</content>
 	<content contentuid="h99ce9406g3639g4b3fgaa1dg919a07542e04">You&apos;re kicking the legs right from under our educational values, commander! No permit will be given to wee babes, but the younger they get their hands on the hilt or trigger, the more responsible they become. Stands to reason!</content>
-	<content contentuid="h99d46443g09ddg49f7g9644gf1b1c6aec74f">Graphics</content>
+	<content contentuid="h99d46443g09ddg49f7g9644gf1b1c6aec74f">Відображення</content>
 	<content contentuid="h99da71dag66c4g4cf2gaf92g84a5fd09a157">You could stand to be a bit more devious, my dear! There ain&apos;t a king that&apos;s not a conniving bastard—if he plans to last, that is!</content>
 	<content contentuid="h99e12982gaaeeg482eg851fgda71ed170ded">Double tapping a control group key jumps the camera to that control group</content>
 	<content contentuid="h99e30d61ga35eg4f66gb659ga70c69291c99">DWARVEN DIPLOMAT DSC GUILTY OF RAPE? SCANDALOUSLY SENTENCED WITHOUT EVIDENCE!</content>
@@ -5839,7 +5839,7 @@ Fire rate [2]</content>
 	<content contentuid="hcea2d31bgf509g42afg83e9gd77434206d94">A building that increases the amount of recruits gained from a country&apos;s population.</content>
 	<content contentuid="hceb03ecfge710g4a14gacb7g59bf4ec11c6e">Warlocks cost [1] less recruits to produce.</content>
 	<content contentuid="hced56de3g577cg4545g9439g4e6ae90221c9">I wonder how dragons evolved. Do they come from a long line of mighty creatures, or are they the drunken mistake of some sorcerer who put wings on a reptile and poured sulphur down its throat?</content>
-	<content contentuid="hcee2de4ege7d2g4676g8aadg7f14f53fb085">Display</content>
+	<content contentuid="hcee2de4ege7d2g4676g8aadg7f14f53fb085">Монітор</content>
 	<content contentuid="hcf05bb39g3eedg4d54gb42cg006fdf9f82dc">The nerve of the man! Darling daughter indeed! Whatever illness has taken hold of him, let it fester! Good riddance!</content>
 	<content contentuid="hcf0d397fg98c4g4db8ga66fgb11658766ad4">[1] Juggernaut mercenaries are fighting on your side this battle.</content>
 	<content contentuid="hcf0e5ed3g58e3g4aeega130g03131cc11065">Bloody good show, Commander! We kicked butt today, and firmly too!</content>
@@ -6315,7 +6315,7 @@ Damage [1]</content>
 	<content contentuid="hde5f02cag527eg4f77g9754g8e97641c8ac2">I can make a more-or-less educated guess as to what this ingredient is that Falstaff mentions, Commander, and I&apos;m inclined to say: proceed very, very carefully.</content>
 	<content contentuid="hde67a66dg6263g4678gbc8dge75bca8edf7b">Повільна</content>
 	<content contentuid="hde80b103gf002g427egb26bgcaecce2942de">Without purpose we would not exist. It is purpose that binds us and defines us. Purpose is the Seven.</content>
-	<content contentuid="hde906ffbga771g47edg95c0g0861e68e7750">Fake Fullscreen</content>
+	<content contentuid="hde906ffbga771g47edg95c0g0861e68e7750">Весь екран (ім.)</content>
 	<content contentuid="hde946248ge501g4473ga0c7g7896d1ec15b4">The amount of gold you receive from this country per turn. This can be increased by building a goldmine on this country or playing specific cards. Furthermore a high popularity with capitalistic-oriented species can lead to increased gold revenue</content>
 	<content contentuid="hdeaae6ccg8a5bg46b7g95a4gfdddf2cda20b">To build units and buildings, you&apos;ll need recruits.</content>
 	<content contentuid="hdebe54f5g27e5g4dc5ga1f7gb7c8b6655655">As a matter of principle, I requested Yorrick to be replaced by a woman, but alas my request was not heeded.</content>
