@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/XML_Extractor/Debug
+/XML_Extractor/Release
+/XML_Extractor/x64
