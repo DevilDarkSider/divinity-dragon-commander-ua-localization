@@ -133,6 +133,9 @@
   <ItemGroup>
     <ClCompile Include="XML_Extractor.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\..\ukrainian.xml" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
