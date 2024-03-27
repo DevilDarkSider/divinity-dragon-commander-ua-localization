@@ -1,0 +1,7 @@
+Zeppelins - Дирижаблі
+Hunters - Мисливці
+Grenadiers - Ґранатники
+Fighters - Винищувачі
+Fog Of War - Туман війни
+Shamans - Шамани
+Warlocks - Чорнокнижники
