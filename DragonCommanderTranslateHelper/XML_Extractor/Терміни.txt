@@ -5,3 +5,13 @@ Fighters - Винищувачі
 Fog Of War - Туман війни
 Shamans - Шамани
 Warlocks - Чорнокнижники
+
+
+
+
+
+
+Aida - Аїда
+Camilla - Камілла
+Lohannah - Лоанна
+Ophelia - Офелія
