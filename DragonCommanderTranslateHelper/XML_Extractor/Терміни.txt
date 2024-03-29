@@ -8,10 +8,23 @@ Warlocks - Чорнокнижники
 
 
 
-
-
+Boreas - Бореас
+Maxos - Максос
+Hundra - Хундра
+Ferol - Ферол
+Sigurd - Сіґурд
 
 Aida - Аїда
 Camilla - Камілла
 Lohannah - Лоанна
 Ophelia - Офелія
+
+
+
+The Zealots - Зелоти
+The Imperials - Імперці
+The Hordes - Орда
+The Warlords - Військовики
+
+
+The Rivellon Times - Рівеллонська Правда
