@@ -1,6 +1,7 @@
 Zeppelins - Дирижаблі
 Hunters - Мисливці
-Grenadiers - Ґранатники
+Grenadiers - Гренадери
+Trooper - Штурмовик
 Fighters - Винищувачі
 Fog Of War - Туман війни
 Shamans - Шамани
@@ -10,7 +11,7 @@ Warlocks - Чорнокнижники
 
 Boreas - Бореас
 Maxos - Максос
-Hundra - Хундра
+Hundra - Гундра
 Ferol - Ферол
 Sigurd - Сіґурд
 
@@ -28,3 +29,5 @@ The Warlords - Військовики
 
 
 The Rivellon Times - Рівеллонська Правда
+
+Unit - бойова одиниця, бойова од., БО
