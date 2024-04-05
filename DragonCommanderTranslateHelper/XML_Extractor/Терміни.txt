@@ -6,7 +6,7 @@ Fighters - Винищувачі
 Fog Of War - Туман війни
 Shamans - Шамани
 Warlocks - Чорнокнижники
-
+Transports - Перевізники
 
 
 Boreas - Бореас
