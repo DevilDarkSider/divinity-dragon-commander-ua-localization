@@ -7,7 +7,12 @@ Fog Of War - Туман війни
 Shamans - Шамани
 Warlocks - Чорнокнижники
 Transports - Перевізники
-
+Ironclads - Броненостці
+Armours - Танки
+Devastators - Спустошувачі
+Imp Fighters - Бісівські винищувачі
+Juggernauts - Джаггернаути
+Bomber Balloons - Повітряні кулі - бомбардувальники
 
 Boreas - Бореас
 Maxos - Максос
@@ -33,3 +38,10 @@ The Warlords - Військовики
 The Rivellon Times - Рівеллонська Правда
 
 Unit - бойова одиниця, бойова од., БО
+
+War Factory - Завод наземної техніки
+Battle Forge - Бойова ковальня
+Shipyard - Кораблебудівний завод
+Aerofactory - Авіазавод
+
+Imp Bunker Buster - Бісівський бункеролам
