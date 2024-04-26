@@ -26,10 +26,12 @@ Lohannah - Лоанна
 Ophelia - Офелія
 Henry - Генрі
 Grumio - Ґруміо
+
 Edmund - Едмунд
 Falstaff - Фальстаф
-
-
+Trinculo - Трінкуло
+Prospera - Проспера
+Yorrick - Йорік
 
 The Zealots - Зелоти
 The Imperials - Імперці
@@ -47,3 +49,5 @@ Shipyard - Кораблебудівний завод
 Aerofactory - Авіазавод
 
 Imp Bunker Buster - Бісівський бункеролам
+
+destructive power - руйнівна міць
