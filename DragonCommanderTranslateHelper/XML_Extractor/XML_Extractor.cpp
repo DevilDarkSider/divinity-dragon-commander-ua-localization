@@ -71,20 +71,7 @@ int main()
 {
 	std::vector<std::wstring> aPaths
 	{
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\Finished\In progress\ms01_maxos.lsx)",
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\Finished\In progress\ms02_maxos.lsx)",
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\Finished\In progress\ms03_maxos.lsx)",
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\Finished\In progress\msdm01_maxos.lsx)",
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\Finished\In progress\msdm02_maxos.lsx)",
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\Finished\In progress\msdm03_maxos.lsx)",
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\Finished\In progress\msdm04_maxos.lsx)",
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\Finished\In progress\mspr01_maxos.lsx)",
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\Finished\In progress\mspr02_maxos.lsx)",
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\Finished\In progress\mspr03_maxos.lsx)",
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\Finished\In progress\mssiblings_maxos.lsx)",
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\Finished\In progress\default_dialog_maxos.lsx)",
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\Finished\In progress\end_turn_maxos.lsx)",
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\Finished\In progress\kickstarter_maxos.lsx)"
+		LR"(O:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Localization\English\Video\Game_Intro.lsx)",
 	};
 	for (auto& path : aPaths)
 	{
