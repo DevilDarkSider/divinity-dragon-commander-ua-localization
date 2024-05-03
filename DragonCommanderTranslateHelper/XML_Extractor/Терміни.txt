@@ -51,3 +51,7 @@ Aerofactory - Авіазавод
 Imp Bunker Buster - Бісівський бункеролам
 
 destructive power - руйнівна міць
+
+Recruitment Centers - Центри зайнятості
+Waypoint - Місце зібрання
+Build site - місце під будівлю

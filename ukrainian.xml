@@ -112,7 +112,7 @@
 	<content contentuid="h044a92eagee8fg47a8gb9d2g455d7f0c5c8b">Air units cost [1]% less.</content>
 	<content contentuid="h0461574dg744fg477agab18g519c5339745f">Your system does not meet the requirements for high quality textures. Enabling them anyway may result in system instability.</content>
 	<content contentuid="h0464d10fgd3c6g4ae3gae4ag945d86695b14">Your choice, commander, though it may well prove to be a disastrous one. I&apos;ve seen locusts come in swarms before and seen the hunger-plagued faces after they had passed.</content>
-	<content contentuid="h046724e7g06aag4210gba6agb9e67a132a1a">Вибрати бойові ковальні</content>
+	<content contentuid="h046724e7g06aag4210gba6agb9e67a132a1a">Виділити бойові ковальні</content>
 	<content contentuid="h04679719gd6c8g4339g86feg24d5c42d7658">Why invest in poor people when you can invest in munitions factories? Falstaff&apos;s got the right idea!</content>
 	<content contentuid="h046a9949ga409g4997g8ec2ged87c556203d">So you deny, then, that we have been given rulership over the beasts of this earth? Heresy!</content>
 	<content contentuid="h046ab760gd5aag4a30g905agc04d305c5b78">Commander, it doesn&apos;t actually take academic research to catch at first glance that these smoke-sticks are vile, lurid inventions fit for neither man nor beast. They bring you great wealth, that I realise, but perhaps wealth does not excuse their existence.</content>
@@ -786,7 +786,7 @@
 	<content contentuid="h1dec4427gc584g4578gb35dg093874620cdd">Commander, the great lizard artist Della Gekko has made a sculpture that is, I admit, critical of the government. He is a pacifist and dislikes the brutality of war. But is this reason enough to ban its exposition? Yorrick here says &apos;yes&apos;, but surely you don&apos;t agree?</content>
 	<content contentuid="h1dec6bd2gef31g41d5gba0fgcdeb17ffdce3">By Grumio&apos;s gadgets, it&apos;s a pleasure indeed to shake hands with you, commander! Your technician is my nephew, don&apos;t you know, and I am Trinculo Shortfuse, son of Trunculo Evenshorterfuse. Praised be the dragon!</content>
 	<content contentuid="h1def45e4g8356g42bfg945dg5b94884c2990">[1] gold has been removed from your treasury!</content>
-	<content contentuid="h1dffdf06g7c10g4d10gb36dga26b49b85943">Select group 1-0</content>
+	<content contentuid="h1dffdf06g7c10g4d10gb36dga26b49b85943">Виділити групу 1-0</content>
 	<content contentuid="h1e0de55dg5104g47a6g9027gf764c63a129e">I for one will neither forget her flight from culpability, nor the unfortunates who demised because of her high-spirited but ill-fated protestations!</content>
 	<content contentuid="h1e19d471gc796g41ddg84bbg3c024c224b43">Your Bomber Balloons will fire [1]% faster.</content>
 	<content contentuid="h1e2192a3ga4b7g413fga7adg07e6ba06a1e4">Jolly rotten luck for those who were taken, but we do not make deals with delinquents! Soon we&apos;ll have all the riffraff in the land giving abduction a whirl!</content>
@@ -854,7 +854,7 @@
 	<content contentuid="h20106e9cg0093g4e06gbfabg8e5cc9c3296f">There we are, my lambey-pie! Not only am I your wife and queen, I&apos;m the queen of all dwarves as well! Dad&apos;s been moved to Windytop Manor to convalesce and the prognostics read that that might take a good few years—until he&apos;s in no state to convalesce anymore in fact.</content>
 	<content contentuid="h20119e88gfebcg44d8g9024g2795730d2218">We&apos;re well along the way to victory, I&apos;d say! Won&apos;t be long now before we have the bastards on the run!</content>
 	<content contentuid="h20132228g6472g4a49g90a2gedbeda4d848f">Хід</content>
-	<content contentuid="h201d7824gb7fcg4a38g8762ga2b5c88034bd">Support used (Total support)</content>
+	<content contentuid="h201d7824gb7fcg4a38g8762ga2b5c88034bd">Забезпечення використовується (Загальна к-сть забезпечення)</content>
 	<content contentuid="h2023896eg1b9ag4e5cgb0e2gdc137bfb2334">Всі ваші будівлі виготовляють БО на [1]% швидше.</content>
 	<content contentuid="h2026bc5agf5dbg427fg94e5gf75662dd31b9">The law is a fickle guide, isn&apos;t it?</content>
 	<content contentuid="h20281cbfg678dg43ecgada2gc576a72ecdc4">I took a stroll in the sun today, my lord and love! Never could I have imagined the wonder that is to feel the light of life find comfort on one&apos;s skin. Such dulcet delight; such subtle sensibility.</content>
@@ -918,7 +918,7 @@
 	<content contentuid="h2221d638g8a17g4c4cg8758gf474fa1cada0">Anything for the Empire!</content>
 	<content contentuid="h2224f734gd3a5g48begbbacg060d5ab7e1a0">Ghoultry</content>
 	<content contentuid="h2237098egfbf3g4c43ga0e7gd10c17ffa91c">Джаггернаут</content>
-	<content contentuid="h223c3f61g09c7g4f39gae92gd08c237e9960">This site supports the construction of Ant-Air, Anti-Ground and Mortar Turrets.</content>
+	<content contentuid="h223c3f61g09c7g4f39gae92gd08c237e9960">На цьому місці можна побудувати Протиповітряну, Протиназемну або Мінометну башту.</content>
 	<content contentuid="h2246b9dcge5b1g4806gae72g32a152ce2cea">It&apos;s a rotten business when a girl breaks it off for no reason, commander! The times we had, my word! A lesser man would weep for such a loss!</content>
 	<content contentuid="h224b6836g4e8fg4617g999dgd2a16df2f27a">Somehow I think you know what I&apos;m about to say, commander, but by golly, nakedness is a sin! Yes indeed, the Seven forbid it! People should hide their shame, not strut about for all to see! Good heavens, the mere thought is repulsive!</content>
 	<content contentuid="h2253e4acg6faag4c03g9b08ga37f28c8091d">Легка наземна БО</content>
@@ -1032,7 +1032,7 @@
 	<content contentuid="h25f0476cgf550g4a67gb603g4d9758e42ab1">Is that a reason to be a killjoy and scream bloody murder? Cause that&apos;s what those gods-be-damned councillors of yours are doing! They demand restitution and the likes. I&apos;ve half a mind to demonstrate what functionalities come with this arm of mine and where they can put &apos;em!</content>
 	<content contentuid="h25f1b823g5d08g4665g90a4gcef79af6ab18">The hour is dark, commander. For a second time, misfortune has befallen your beloved, though I am somewhat less at a loss to guess what caused her undoing. Perhaps you merely have an overtly pragmatic mind, and you&apos;ll go to horrid lengths to win the war, but perhaps you are being seduced like many have before you. Beware! A demon&apos;s gift is never a gift!</content>
 	<content contentuid="h25f3c935g7c29g43adg8a51g12c04e2120b2">Tell me about camilla_3_2_1</content>
-	<content contentuid="h25f798f3g8c79g4792ga4f7g75b6c58eaffa">Підтримка</content>
+	<content contentuid="h25f798f3g8c79g4792ga4f7g75b6c58eaffa">Забезпечення</content>
 	<content contentuid="h2600e580g32c1g4707ga4b2gd035a2617a1e">A [1] class [2] unit that is highly effective against large groups of light class ground units, turrets and buildings.</content>
 	<content contentuid="h260fcc43g87f4g4c33gad04g692f66dc1f7e">Here, for instance, I&apos;ve selected a group of units</content>
 	<content contentuid="h26114a97g8e93g418eg946bg0e36e2c5d842">Imps intro to new tech: &quot;We blow fish out of the sea all the time, so why not enemy ships?&quot;</content>
@@ -1196,7 +1196,7 @@
 	<content contentuid="h2b75f347g7dc9g44a1g9b79g1edb2beda326">**all kinds of alarms** oh boy, I had better read the manual before doing that.</content>
 	<content contentuid="h2b77094fg8592g4120gb6afg99d22ed8c628">Indeed I shall! The man has openly gone against me and I can&apos;t let that slide. My spies will procure this ledger.</content>
 	<content contentuid="h2b78e12ag203bg48e5ga190g3733adcf50cb">Lady and gentlemen, please, let us all be adult about this! I&apos;m quite certain the commander will favour the opinion of elves above all others!</content>
-	<content contentuid="h2b7f0841gfcc6g4451gb51fg215747988fa1">This site supports the construction of Battle Forges, War Factories and Aerofactories.</content>
+	<content contentuid="h2b7f0841gfcc6g4451gb51fg215747988fa1">На цьому місці можна побудувати Бойову ковальню, Завод наземної техніки або ж Авіазавод.</content>
 	<content contentuid="h2ba0efe6gacd3g4e1dgbc50g16febdfb4828">Do as you see fit, Henry. Long as the job gets done, mind!</content>
 	<content contentuid="h2ba5051dgf18ag42f6gaf0ag266220818b3c">Початкова к-сть од. дослідження</content>
 	<content contentuid="h2bade34cg9528g4692gbd5ag7d0d2ad1b8e2">Tell me about catherine_2_1</content>
@@ -1353,7 +1353,7 @@
 	<content contentuid="h30a010b6g64fag4eeegbee9ge9dee9e6ffd0">Wizardwell</content>
 	<content contentuid="h30afc3beg1af1g4dc7g8a97gc5e4b6d15a47">Enemy Imp Fighters have been plated with iron! They&apos;ll certainly be harder to shoot down!</content>
 	<content contentuid="h30b64516ga700g4767g8bf2gf5937e448c97">Дозволить замовляти Дирижаблів у ваших авіазаводів. Ці небесні очі значно збільшують далекострільність оточуючих дружніх БО.</content>
-	<content contentuid="h30c220fcg7856g4e87g8155g6515bac28434">Restart</content>
+	<content contentuid="h30c220fcg7856g4e87g8155g6515bac28434">Перезапустити</content>
 	<content contentuid="h30c22481gc0f1g4cabgbd85g4f3aa4094c32">Even then, I can&apos;t really be bothered going through the charade of a state funeral. Can&apos;t they just throw him in a pen, let the pigs have a treat for once?</content>
 	<content contentuid="h30c68628g118ag409dg95fdg49b3931fbf6b">Goodness gracious me, commander! A whole month without working? The amount of boredom would be lethal! No, no, no! I&apos;ll have none of those vile holidays!</content>
 	<content contentuid="h30caa82cg0ff6g4f8eg8c5fg5504adad1296">Прийняти</content>
@@ -1361,7 +1361,7 @@
 	<content contentuid="h30cbeccfgdc10g46b4gb3c8g5a11b93b58d9">This is so exciting! I wonder what wine will taste like... Oh, and whisky! I&apos;ve heard awfully good things about whisky.</content>
 	<content contentuid="h30d98333g6cf6g43fbg96d2g25ed86a81c7f">За Імперію! (Перевізник)</content>
 	<content contentuid="h30e94222g18adg4fe8g9251ga393b9a0bc9b">Pretty chamber I&apos;ve been given, my tasty thistle! Doesn&apos;t look quite as sturdy as dwarven masonry, but it&apos;ll do! Anything that&apos;s so many miles away from the presence of my father will do, in fact.</content>
-	<content contentuid="h30ebd330g79bag4b4cg9954gaca81d49d2d1">Select units around aim point</content>
+	<content contentuid="h30ebd330g79bag4b4cg9954gaca81d49d2d1">Виділити БО навколо прицілу</content>
 	<content contentuid="h30f86721g3fcfg4167gb7edg61a87a260102">There&apos;s no more expensive a commodity than a woman, commander, and now you&apos;ve increased their salaries as well! My stomach turns when I eye the royal coffers empty at such a rate!</content>
 	<content contentuid="h310555e1gf76fg435egb927g5751f2327c16">If enemy transports head straight for you, get out of there! They can self-destruct!</content>
 	<content contentuid="h31234346ge0e7g4c8dg8ebagee49eae38141">Commander! The Seven have truly favoured us all! Heathens wither in the throes of death as we tread by them victoriously! Glory be! Glory be unto the gods!</content>
@@ -1459,7 +1459,7 @@
 	<content contentuid="h341331e1g143fg40c5gb11agc0c931fd0088">I&apos;d laugh at Trinculo&apos;s proposal, commander, if it wasn&apos;t so utterly debased! He&apos;d have us give up our sacred rites and allow our dead to be used as some sick sort of fuel, as the essence of explosives! Unthinkable!</content>
 	<content contentuid="h3439d81egc01dg4937g9ad5gcd098d83d2ab">I knew I could count on you, commander! If there is one of us in this room who&apos;ll never have the need for an Indulgence, surely it must be you!</content>
 	<content contentuid="h34402a1ag5e12g4307gad54g4cf7dd8a0116">Dear me, I do hope you know what you&apos;re doing, commander! Shower the plebs with prosperity and their masters will become paupers. You&apos;re turning the tables just like that, but I liked my seating arrangements as it was, thank you very much!</content>
-	<content contentuid="h344b3814gaea9g4973gbd4ageb4f6ed4ea85">Вибрати все військо</content>
+	<content contentuid="h344b3814gaea9g4973gbd4ageb4f6ed4ea85">Виділити всі БО</content>
 	<content contentuid="h34516fa3ga113g47d6g9d80g798670517f4f">Покращена вибухівка (Повітряна куля - бомбардувальник)</content>
 	<content contentuid="h346814f0g5352g4cafg8e82g7764811fadfa">Another Day, Another Dollar</content>
 	<content contentuid="h346d4c47gbb86g4aa7g9e0ag682096d4fd97">Повернутися</content>
@@ -1572,7 +1572,7 @@
 	<content contentuid="h384c1105gbabag48e0g9fbdgcc2e2c492eac">I&apos;d have given Oberon such a whip of the tail had doing so not betrayed my anger! His smug face could do with a bit of nasal repositioning!</content>
 	<content contentuid="h38587743gd9adg4549gb753gcf2189bfb7ee">Важких надводних БО, Наземних БО</content>
 	<content contentuid="h38627138g6dcfg4262g80d3g1fe8894abb9b">Tell me about catherine_1_1</content>
-	<content contentuid="h386c122ag46edg48a9g8fb5gf9a0fbdcfe1b">Issue attack order to selected units</content>
+	<content contentuid="h386c122ag46edg48a9g8fb5gf9a0fbdcfe1b">Наказ атакувати виділеним БО</content>
 	<content contentuid="h386eba68g2a5fg4705ga3ecge4f1104160e0">You think it would be unwise to deal with Corvus?</content>
 	<content contentuid="h387596c1gd485g403ag8309g194414365081">My mother tell me I&apos;m wicked, but I just LOVE to kill</content>
 	<content contentuid="h387d7a0cgcc53g4e77ga809g5f675e64736b">You flirt! You&apos;re kind of right though... Oh, am I ever glad I didn&apos;t listen to Oberon going on and on about tradition and idolatry. What a bore that man can be!</content>
@@ -1630,7 +1630,7 @@ Victory will be yours in [1] seconds!</content>
 	<content contentuid="h3a6cb972gfc3bg442aga0fag7492a49bdda4">You probably expect me to explode with rage about now, Commander, but no: I am calm and content, for I know you have the sapience to cast the imp&apos;s ideas into the cesspit—where they belong.</content>
 	<content contentuid="h3a708298g5ef4g4649g8c7fg9d12f7604805">Support increase</content>
 	<content contentuid="h3a8078b0g936cg44c3ga6f4g1c9ca34f72a5">Бісівський механізм Ґруміо</content>
-	<content contentuid="h3a81e2e7g5027g4fdega310ga70cf2f1205d">This site supports the construction of Recruitment Citadels.</content>
+	<content contentuid="h3a81e2e7g5027g4fdega310ga70cf2f1205d">На цьому місці можна побудувати Центр зайнятості.</content>
 	<content contentuid="h3a892fd3g3c8cg4d97gbdb3g0e958e60955f">The Anti-air Turret will decloak anything that comes into its sight range.</content>
 	<content contentuid="h3a8b8150g78e6g4affga6efge5d4a90fac40">Though they should add some more exciting locations to explore I think! Oh that is what they are planning are they? How about more quests? More story? Lovely, wonderful! Hmmm, this sounds like an opportunity after all! Let me get my purse!</content>
 	<content contentuid="h3a8ce4a1g6042g44a0g91c4g8bbb75c2e62e">EMPEROR WANTS POPULACE TO STARVE! SENDS IN KILLER LOCUSTS!</content>
@@ -2056,7 +2056,7 @@ Victory will be yours in [1] seconds!</content>
 If you don&apos;t act in [1] seconds, the battle will end in a draw!</content>
 	<content contentuid="h4a1d06f1g6fadg44fbg9d43g67f8c23ebe8b">Dodged the bullet there, we did. Just let us deliver our goods and don&apos;t ask any questions. You like a good shepherd&apos;s pie, don&apos;t you, commander? But you don&apos;t want to see how it&apos;s made!</content>
 	<content contentuid="h4a209d31g3a38g4793gae59g141e2e0910a8">Move</content>
-	<content contentuid="h4a22726ag487fg4d07gadabg6694cf451df7">Вибрати заводи наземної техніки</content>
+	<content contentuid="h4a22726ag487fg4d07gadabg6694cf451df7">Виділити заводи наземної техніки</content>
 	<content contentuid="h4a241799gb035g4610g9bbcg3a6dcfe13024">Scarlett is just mad, you know! Quite, quite deranged. Always the rebel, always the flirt and now? She&apos;s stiff as a board and barks orders like a drill sergeant! Women... fickle as the wind!</content>
 	<content contentuid="h4a2ca27fg15d0g47fbgbc27g3d95c3742833">How can I be of assistance, milord?</content>
 	<content contentuid="h4a39ba37g03ceg4c7fgb059gd748250cb9a3">Thy will?</content>
@@ -2182,7 +2182,7 @@ If you don&apos;t act in [1] seconds, the battle will end in a draw!</content>
 	<content contentuid="h4e7fb0e6g6bc9g4bf3g9d14g9fad715b2734">I hunt for your glory</content>
 	<content contentuid="h4e867354gcaa9g4f33g8edbgb49546b95e09">Летіти назад</content>
 	<content contentuid="h4e87090ag3b6dg493bg93f9g93ac46c052ab">But... but this reprimand will kill business! Who wants to read mere facts? Facts are boring! Gorblimey, Commander, reprimand if you must, but don&apos;t break the news until I&apos;ve sold all my shares in the Times!</content>
-	<content contentuid="h4e9450bfg1312g4263ga4aegec1895b741ed">Загальна кількість військ яку ви знищили на стратегічній мапі</content>
+	<content contentuid="h4e9450bfg1312g4263ga4aegec1895b741ed">Загальна кількість БО яку ви знищили на стратегічній мапі</content>
 	<content contentuid="h4ea5cec9g91dcg4105gb1c8g50bce1d2015b">Does that chattering corpse have no other ambition in what passes for his twisted life than the search for so-called sin? He may make you promises of slaves, commander, but what he&apos;s really after is to have the realm firmly in the grip of the Seven, read: in the grip of the accursed undead!</content>
 	<content contentuid="h4eab0e18g721ag4f48gaca6gb485a4a8ac88">Instead, we got a wolf that devoured half the flock and left the rest shivering where they stood! The man&apos;s an ogre, not an officer! Such shocking conduct should not be tolerated!</content>
 	<content contentuid="h4eafc74cgff8dg42bcgbc1fg88dd5d190c72">Enemy Zeppelin upgrade detected</content>
@@ -2368,7 +2368,7 @@ Click on the strategy globe to access the strategy map.</content>
 	<content contentuid="h54b7ae45ga73eg44d5gb11dg6f69267b9f27">Report From The Court - Emperor dethrones with lies and deceit</content>
 	<content contentuid="h54ba5fc2g0356g4906g8847g6ca387eb2039">Kingchester</content>
 	<content contentuid="h54c13e82gc104g46f3g9ee7g3abbbcc20a51">Jetpack Boost</content>
-	<content contentuid="h54ca4492gea4dg4d59g8661g59f32681b995">Construction Site</content>
+	<content contentuid="h54ca4492gea4dg4d59g8661g59f32681b995">Місце під будівлю</content>
 	<content contentuid="h54d2c327g5fccg43d2g89f1g3d4f5a07fb67">Сіґурд І створив надзвичайні рушії війни.</content>
 	<content contentuid="h54d62dadg00f7g4c97g8e2cg6305d40f699d">Висока</content>
 	<content contentuid="h54ea4c7dg5d92g40f7g8cdag79a645990ad3">I&apos;m afraid that dam is the catalyst of an economic success story without parallel. Power, riches, employment—will you sacrifice it all for the sake of a pack of wild dogs?</content>
@@ -2442,7 +2442,7 @@ Click on the strategy globe to access the strategy map.</content>
 	<content contentuid="h57c61d0egadcdg4af5g8899gba601429f323">I&apos;m afraid I must disagree with Trinculo, commander! Books full of bloodshed and worse tend to play havoc with the spirits of susceptible youths. Best we keep them confined to libraries where only adults have access to them.</content>
 	<content contentuid="h57cd809ag3bccg4202g8b42g512d52bd7f30">Кораблебудівний завод</content>
 	<content contentuid="h57d3cd1fg89dfg46d0gac0eg51a265f714c7">Build Gold Mine</content>
-	<content contentuid="h57db2e60g7043g47f3ga4b3ga5ae4c9bc794">Faran</content>
+	<content contentuid="h57db2e60g7043g47f3ga4b3ga5ae4c9bc794">Фаран</content>
 	<content contentuid="h57dff7a6ge6c9g4c9agbc28g9964e1a6ba21">Sometimes you have to take the good with the bad, commander! Stiff upper lip, eh!</content>
 	<content contentuid="h57e26098g1cd9g4fe8gb5f7g04097d05be12">Your Juggernauts will have the Imp Binoculars upgrade for one combat round.</content>
 	<content contentuid="h57e48decga600g4702g8c70g88319ffb559a">Загальна кількість переможних битв</content>
@@ -2713,7 +2713,7 @@ Click on the strategy globe to access the strategy map.</content>
 	<content contentuid="h609ed826gd98dg4838g8a46g90903c58cf16">Falstaff is correct in that imps love their blue sugar water, but it&apos;s quite expensive and our apple-blue-sea-green variant is mighty cheap. You wouldn&apos;t deprive an honest imp of his sugar water, would you, commander?</content>
 	<content contentuid="h60a070b1g4da2g4513gb131g63b1e0de6e92">I stand aghast, commander! You are sacrificing your own populace on the godless altar of commerce. I had thought this beneath you! Verily I did!</content>
 	<content contentuid="h60ac66ecged1ag43f4gb821g623ce3be15fd">Бойова ковальня: будівництво завершено</content>
-	<content contentuid="h60cd8f21g6cdbg4abcga730g12d478742993">Press any key to continue...</content>
+	<content contentuid="h60cd8f21g6cdbg4abcga730g12d478742993">Натисніть будь-яку клавішу, щоб продовжити...</content>
 	<content contentuid="h60d0c52eg623dg4562g89c0g9a85d7b67ebf">If the imps have to resort to corporal punishment to establish a bit of decorum, I think that simply makes them bad educators. We lizards will have none of such unwarranted harshness.</content>
 	<content contentuid="h60d120c6g7089g4546gb659gf133f9a94a0d">Stand in the path of a Dragon Knight and you&apos;ll be obliterated; once more this has been spectacularly proven!</content>
 	<content contentuid="h60d2c6acgebe1g4f90g9d84ga979bc695c54">Ціна виклику дракона</content>
@@ -2732,7 +2732,7 @@ Click on the strategy globe to access the strategy map.</content>
 	<content contentuid="h61350aedga5b7g40ecg8ab5g050d4c9adc3e">Dear old Edmund.</content>
 	<content contentuid="h615bd46dg5b2eg4588gad7bg32170d4e5d48">Easy, like blowing up a mine shaft!</content>
 	<content contentuid="h616a84f3g555eg4f94g8a7ag581dfa243c35">Laurens</content>
-	<content contentuid="h617ecc7cg68a7g4411g90cbg98c3938188dc">New tutorial available: Building Options</content>
+	<content contentuid="h617ecc7cg68a7g4411g90cbg98c3938188dc">Доступне нове навчання: Можливості будівництва</content>
 	<content contentuid="h61968516gbf19g43dbga938gfeef6e6c3c03">An enemy dragon is surrounded by an Aura of Annihilation!</content>
 	<content contentuid="h619c9460g3166g4111g9b72gbf7d6d2b1bcd">Excellent, commander, simply excellent! I realise I may seem like a cynical old sorcerer when I receive the news of one of your siblings deaths with such relish, but if it hastens our progress to peace, may one fall &apos;neath your blade every day!</content>
 	<content contentuid="h61a28316gcf93g4aeegab0bg7a24fdd07fc1">Where is the port in portside, sire?</content>
@@ -2756,7 +2756,7 @@ Click on the strategy globe to access the strategy map.</content>
 	<content contentuid="h627f694cg8d91g41c7gae34g1019a4f6c41a">But anyway, enough banter! A good sherry is what I need! They brought in some new casks only yesterday, I do believe, so I live in good hopes I may yet have a sip of sherry worthy of its name before this ship is decommissioned... and we with it.</content>
 	<content contentuid="h6289674cgd30eg4d3cgb5c8g3bfe7d832f71">Need a ride?</content>
 	<content contentuid="h629b10ebgaef2g4cb9ga9c4g403c16adaa7e">QUEEN TAKES DWARVEN BRIBE! UNDEAD SUFFER FOR HER GREED!</content>
-	<content contentuid="h629dfc2eg1756g41a2gb18cgf716c5ba12a2">New tutorial available: Unit and Building Creation</content>
+	<content contentuid="h629dfc2eg1756g41a2gb18cgf716c5ba12a2">Доступне нове навчання: Створення БО та будування</content>
 	<content contentuid="h62a290d8g9577g4076ga8d4gb6ee8490c978">Tell me about edmund_1_1</content>
 	<content contentuid="h62a3a5d0gff38g40ccga945g9af4a84e7829">Survival Rate</content>
 	<content contentuid="h62af0718g6853g409cga227g2c5377b5e002">UNDEAD WOMEN ALLOWED TO VOTE! EMPEROR SWEEPS ASIDE CENTURIES OF SACRED TRADITION</content>
@@ -2842,7 +2842,7 @@ Click on the strategy globe to access the strategy map.</content>
 	<content contentuid="h65867232g071cg4f59gb87ag77143ae10e97">Follow the jury.</content>
 	<content contentuid="h6592cff7g95e0g403cg8730g0d53804f05dd">Just a few more battles and it&apos;ll be all over. Sad, really. Peace will bore me to tears.</content>
 	<content contentuid="h65a71cb5gfa45g4d91g8b94gdbbb93d31b2b">There&apos;s a camp in one of the provinces that houses thousands of people that have fled the horrors of war, but death keeps stalking them in the guise of famine. The imps want to plant technoveg: vegetables that are engineered to grow in a day. Sounds wonderful doesn&apos;t it?</content>
-	<content contentuid="h65b1c327g869ag4191g9355g8f0d2001a882">Recruitment Citadels cost [1] less recruits to produce.</content>
+	<content contentuid="h65b1c327g869ag4191g9355g8f0d2001a882">Для побудови Центра зайнятості потрібно на [1] менше новобранців.</content>
 	<content contentuid="h65bf2df5g6892g448cg824fg589a625d94ef">Imps on latest enemy research: &quot;Enemy Devestators not moving? What good will that do?&quot;</content>
 	<content contentuid="h65c84705g672ag40b8g9903g4eaa56c9ca52">All this lovey-dovey stuff is wasted on me, Commander, but you go ahead and see who takes your fancy! Elf, dwarf, lizard, undead—they are all represented.</content>
 	<content contentuid="h65cc1dd0g1c19g4712g9ccbg0464b161ddd4">EVERY CRIPPLE GETS HIS DAY EVEN IF IT COSTS THE TREASURY DEARLY!</content>
@@ -3053,7 +3053,7 @@ Click on the strategy globe to access the strategy map.</content>
 	<content contentuid="h6d415243g1b99g4dcag99a3g0515b2f2b71b">Do you want to revert the input bindings to the default setting?</content>
 	<content contentuid="h6d476da9gb512g4306g8ecbg6236629f6f09">Your Juggernauts&apos; attack range will increase with [1]%.</content>
 	<content contentuid="h6d4832e1g8489g4ef4g9e01gb1e4884727cb">Максимальний час бойових рішень</content>
-	<content contentuid="h6d4d78f6gdcd3g463ag87c5ga0355e5a9279">Unit Control in Dragon Mode</content>
+	<content contentuid="h6d4d78f6gdcd3g463ag87c5ga0355e5a9279">Управління БО в режимі дракона</content>
 	<content contentuid="h6d5ef1a6g33eag445cg8f85g2f32f72bc459">Легких наземних БО, Танків</content>
 	<content contentuid="h6d62124eg3e57g457dga82fg92def0bb643d">Commander, even the most peace-loving elf won&apos;t deny that in these dark times of war, allowances have to be made which we would otherwise condemn. Conscription, though, goes too far. Let those that wish to fight for our cause do so, but let&apos;s not force men away from their families if they feel it is their duty to stand by them.</content>
 	<content contentuid="h6d665653gbbeeg41b4g9f07g451d26c314f4">Falstaff is right! Ever tried to cross a swamp with a cannon-wagon? Took fifty imps to pull Big Bertha out of the mud!</content>
@@ -3320,7 +3320,7 @@ Take it back before the next turn, or you will lose the war!
 	<content contentuid="h7732fb73g3e6bg43f0g92d7g412548baf7c7">Your rule is draconic in more way than one, Commander. Needless to say, I sharply disapprove.</content>
 	<content contentuid="h7753a3e2gd5eag4cb2gbc1bgcd37c7e48596">It would seem wealth excuses the existence of smoke-sticks after all. A tragedy, as far as I am concerned.</content>
 	<content contentuid="h77566069gea40g422dg970fg8a9a34408b10">If he can&apos;t win, he changes the rules: emperor finds way to see through enemy camouflage</content>
-	<content contentuid="h77742df7g7649g404fgae45g8e4741cf5095">New tutorial available: Dragon Unit Commands</content>
+	<content contentuid="h77742df7g7649g404fgae45g8e4741cf5095">Доступне нове навчання: Керування драконом БО</content>
 	<content contentuid="h77781903gcdcdg4c01ga6fagf85d1515f038">Our Man Aboard The Raven - Many wonder if emperor can keep it up</content>
 	<content contentuid="h77865632g2a8cg4d95gb753g7acabcc189dc">Why don&apos;t you have a chat with General Catherine first?</content>
 	<content contentuid="h7793468bgfb1eg47aaga9edg26f66de35a26">Is there no one that slut of a Scarlett won&apos;t hump once she&apos;s had a drink or two? Even I have had to escape from her advances. Well, advances... if that&apos;s what you&apos;d call a hot breath of alcohol on your face and a hand down your breeches, that is.</content>
@@ -3629,7 +3629,7 @@ Please check your network connection and firewall settings.</content>
 	<content contentuid="h828c7df5g0fe3g4a61gb1c7g70bbd92047fa">Never! So grand was the occasion that it will be remembered forever! Oh yes, this evening was very fruitful.</content>
 	<content contentuid="h82954386gafceg4e8agae22ge095936dd6f2">&quot;The enemy&apos;s anti-stealth technology is probably nothing more than a pair of binoculars and some pointy sticks,&quot; thinks chief engineer</content>
 	<content contentuid="h82a1bf3cg0483g4e59gba64gce800bebadb8">Prude! Bah! How could you, commander? Have you no respect for a mother&apos;s right to raise her children as she wishes? Puny is the man who bows to priggish minds!</content>
-	<content contentuid="h82a2a14ag36b4g48ebgb982g26e5b40a7637">Не достатньо підтримки</content>
+	<content contentuid="h82a2a14ag36b4g48ebgb982g26e5b40a7637">Не достатньо забезпечення</content>
 	<content contentuid="h82a4ed27gf4f0g47b9g9358g0237be5e002d">Загальна</content>
 	<content contentuid="h82aaffdbg586cg4867ga474g25bff6ed267c">Not yet, dragon, not yet! You know my wants and desires... but for now I am sated.</content>
 	<content contentuid="h82b592c0gb7dfg4d99gbf48g538e7ba4094a">How come you know so much about all these events, when you yourself were in the dark until so very recently?</content>
@@ -3916,7 +3916,7 @@ Tech: [3]</content>
 	<content contentuid="h8bde0549gb8dfg4ed7g8212g88b74395d141">Fountains that spout wine or beer on command! Fans that wave by themselves! You can kiss those smelly orc slaves goodbye! Oh, and carriages that stay cool inside even in the summer! Oh, we&apos;ll have us a blast milord!</content>
 	<content contentuid="h8bebc1acg7872g4ed2ga5bdg873dc4d04799">I... I understand. Only the Seven may make payments in death and collect life in return. By cutting off my egotism at the knees, you have safeguarded a faraway beauty who will never know the greedy talons of desire were hunting for her soul. Blessings of the gods be upon thee.</content>
 	<content contentuid="h8bec4210g67a4g4cb2g95fdgbe68ff0cf465">You need at least one Recruitment Citadel to spawn your dragon.</content>
-	<content contentuid="h8bf1577agda12g41f5gad03ge580aa539839">New tutorial available: Movement and Selection</content>
+	<content contentuid="h8bf1577agda12g41f5gad03ge580aa539839">Доступне нове навчання: Переміщення та виділення</content>
 	<content contentuid="h8bf39352g31aeg4b74g824cg4d620b251164">Is there anything else?</content>
 	<content contentuid="h8bfe8edfgc4c9g4963ga325geeb8fd07d6de">Death From Above</content>
 	<content contentuid="h8c035f5cg64cbg471agabbbg1cb1e9c47342">I think I&apos;ll return to the old house for a week or so; see the old Lore Masters. I&apos;ll miss you terribly when I&apos;m not by your side, but sometimes I long to be among the ancient trees, where soothing songs resound and all the ears are pointy.</content>
@@ -4007,7 +4007,7 @@ Speed [1]</content>
 	<content contentuid="h8ed8e295gb30dg4c20gb123g745446b93fe5">Багатокористувацька кампанія</content>
 	<content contentuid="h8ef35110gf8c3g4098gb689g46146ddd2e09">Maybe I should invite this politician over for a carefully orchestrated candlelight dinner and see if he makes his move. But no, that would be entrapment.</content>
 	<content contentuid="h8ef3a27dg2ec8g49bcgb62eg4a1a452daa97">Standing by ... Impatiently!</content>
-	<content contentuid="h8efe0624gd4b4g4034ga341ge4d2bc51e9e9">Your recruits (Total population)</content>
+	<content contentuid="h8efe0624gd4b4g4034ga341ge4d2bc51e9e9">Ваші новобранці (Загальна кількість населення)</content>
 	<content contentuid="h8f00b98bgf733g4b02g9bf9gc524ed4b0b76">ГЕНРІ</content>
 	<content contentuid="h8f14f044g60d0g4600gb44ege0f48e740c0e">Death will rain down on our enemies!</content>
 	<content contentuid="h8f2db8b1g68aeg4314gbec6g2007c84301a1">Why don&apos;t you have a chat with General Scarlett first?</content>
@@ -4445,7 +4445,7 @@ Do you want to continue?</content>
 	<content contentuid="h9d9c3055g123cg48d4g87f5ga8d3e1c6fca2">Undo card purchase</content>
 	<content contentuid="h9d9c67d6gbb4dg4bb5gb8b8g502bfd67de10">Emperor spotted in shopping mall after losing battle. &quot;I&apos;d rather spend time in the mall than on the battlefield.&quot; In-depth interview inside!</content>
 	<content contentuid="h9d9de2edg4e81g4db3g90c9gcc7ed15a94c9">So you had the villain hung? Good riddance!</content>
-	<content contentuid="h9daacd68gd024g4861g9ea9g9e5f659d74cf">Вибрати авіазовди</content>
+	<content contentuid="h9daacd68gd024g4861g9ea9g9e5f659d74cf">Виділити авіазовди</content>
 	<content contentuid="h9daeea33g8a66g4d73g83beg63d1aa9c1eb9">Nobility does not imply noble: the dragon dabbles in blood magic</content>
 	<content contentuid="h9db95ff0g6f73g4acaga77bg333274b19d2c">EMPEROR CLIPS INQUISITION&apos;S WINGS! &apos;SLAPS THE SEVEN IN THE FACE&apos; RANTS YORRICK</content>
 	<content contentuid="h9dba5f88gec83g4267g97c1g05260cc9ddbc">Do well by the gods, commander and you&apos;ll do well by us, as well as all in the realm! We have many proposals to that effect, which I will bring before you in due time. So say I, Yorrick, humble servant of the Seven.</content>
@@ -4550,7 +4550,7 @@ Do you want to continue?</content>
 	<content contentuid="ha129d7e0g120dg4199g808bg7587b12ec215">Emperor silenced by question about strategic importance of latest conquest</content>
 	<content contentuid="ha1327425g15eeg490cgbdf5g819ed7766e8c">Indecisive</content>
 	<content contentuid="ha1390c3ege918g420ag8187g9f184667a276">Do this, do that, I mean come on! Grow a pair, will ya?</content>
-	<content contentuid="ha143fc12g108bg4c5fg89d8gfb1dd4ff0915">Base: [1]
+	<content contentuid="ha143fc12g108bg4c5fg89d8gfb1dd4ff0915">База: [1]
 </content>
 	<content contentuid="ha14e4689g2f0ag4740g8554g184278d52f58">Press [1] and the movement keys to dash in the direction you want.</content>
 	<content contentuid="ha164df0bg41f4g4c03g95e3g05c4fc08ffe3">I am but a slave now, bound by a demon&apos;s oath to serve the one that bound me—no more than an infernal genie in a rather exceptional bottle. Give me lease though, and I can claw for the things I crave ...</content>
@@ -4757,7 +4757,7 @@ If you don&apos;t act in [1] seconds, the battle will end with your surrender!</
 	<content contentuid="ha908b34dg5954g4fbfg9237gc539c4f6d830">And when has a dwarf ever returned a courtesy? Never, that&apos;s when! Lohannah should heed elven wishes, not the vagaries of dwarves!</content>
 	<content contentuid="ha91ebf57g059fg4e5agbd28g62ce04f6585c">Sea of Silver</content>
 	<content contentuid="ha92aad20g688cg429bg8128g876aeb2b68c9">CTRL + click on a unit to select all units of the same type on screen</content>
-	<content contentuid="ha92c6f60g0cb9g4c6dg85b7g7e8d1bb8cf3f">Підтримка</content>
+	<content contentuid="ha92c6f60g0cb9g4c6dg85b7g7e8d1bb8cf3f">Забезпечення</content>
 	<content contentuid="ha9313d0cg4a5cg4c68ga16bgfe9a55acc876">Kings ... Ha! What are they but brats that had the luck they were drawn from in between the legs of a queen instead of those of her chambermaid? Chances are they opened &apos;em for the same randy old goat in the first place, but I don&apos;t need to tell you that!</content>
 	<content contentuid="ha938fe07gba4dg479aga0f5g5651ba4d408d">Don&apos;t count your dragons before they are hatched, commander! Hubris is a subtle trickster.</content>
 	<content contentuid="ha93db7c2g0d40g4708gba9ag12bfe6a30ab1">Кровосос</content>
@@ -4813,7 +4813,7 @@ If you don&apos;t act in [1] seconds, the battle will end with your surrender!</
 	<content contentuid="haad5ca1fgbf8cg47b0gaa09g3646aff562b5">Ви впевнені, що хочете вийти з гри?</content>
 	<content contentuid="haadc8f81g9a8bg496dg9115ga256e52df3b3">But... but... Great destiny! Big explosion! So close! Aw, why do you have to be such a spoilsport, Commander? Who cares about evergreen fields when you could have ever-greater fireworks?</content>
 	<content contentuid="haae4492egbef7g4f19g825ag7babf94f7d0a">So you think this ancient custom would add insult to injury? I guess it&apos;s true the dwarves smoke only crumbled coal and the undead have a holy horror of all that is, so to speak, spiritually stimulating. But everyone likes cake, don&apos;t they? And I bet you didn&apos;t know I&apos;m an excellent pastry chef!</content>
-	<content contentuid="hab0fb1d4g0531g4fbbgaa32g6651ea224a88">Дозволить створити Бісівський бункеролам, яким можна завдати значної шкоди в будь-якому місці на мапі. Для створення необхідно [1] новобранців та [2] підтримки. Час створення: [3] секунд.</content>
+	<content contentuid="hab0fb1d4g0531g4fbbgaa32g6651ea224a88">Дозволить створити Бісівський бункеролам, яким можна завдати значної шкоди в будь-якому місці на мапі. Для створення необхідно [1] новобранців та [2] забезпечення. Час створення: [3] секунд.</content>
 	<content contentuid="hab112163gf616g4527gbedfg7658d1402b77">Point me at something that can go BOOM!</content>
 	<content contentuid="hab1436d9g3f0ag4aa3gae21gdd2abc1b92af">Your Armours will have the Public Transportation ability for one combat round.</content>
 	<content contentuid="hab144ebbg0426g447bg822cg30fe3381a72c">A mine dropped by the Bomber Balloon that targets enemies when they get near.</content>
@@ -4851,7 +4851,7 @@ If you don&apos;t act in [1] seconds, the battle will end with your surrender!</
 	<content contentuid="hac81af30gba55g4651g83f1g5dd8d0d6da8f">They will be squished like grapes, sire.</content>
 	<content contentuid="hac904a74g0289g4621ga138gbddaac3c77d9">Tell me about scarlett_4</content>
 	<content contentuid="hac9224fagb187g4219gbdeag27f5b0b67b11">Bah! How can you say no after hearing the Very Near Tragedy of Bertha The Sinking Beauty? Brings tears to an imp&apos;s eyes, that one!</content>
-	<content contentuid="hac93bac6gf7c7g4aa4g98c5g94048d7e8034">Вибрати всі бойові од. навколо цілі</content>
+	<content contentuid="hac93bac6gf7c7g4aa4g98c5g94048d7e8034">Виділити всі бойові од. навколо цілі</content>
 	<content contentuid="hac96e99cgdee4g421bga2c6gdc7c4f277002">I could create acre upon acre of perfect golden barley where right now a thousand imps are left to rot in shallow graves, but you don&apos;t see me going around demanding Trinculo&apos;s kin to uproot its forefathers for the sake of perfect golden ale! At least, not yet...</content>
 	<content contentuid="hac9a2978g7bfbg44e3gafcegc48a3104b3da">This world lies ready, waiting for its death.</content>
 	<content contentuid="hac9f369bgc0c3g4403gb822ga0fa449488ad">Airships on Sale</content>
@@ -5277,7 +5277,7 @@ The more countries you occupy, the more research points you receive per turn.</c
 	<content contentuid="hbc438af4gfcc2g4cedgbf33g84f25a79e818">Enemy Ironclads? So much for peace at sea!</content>
 	<content contentuid="hbc50887egcebbg4fe2ga38ag27b7483c5b7f">SUPERIOR-SMOKE-STICK SCHEME SUNK BY SHORT SIGHTED SOVEREIGN!</content>
 	<content contentuid="hbc54ca7fg3c1fg41ebgb84dg00ab8a5ae13c">May my mind forgive my heart, Commander, for it has poisoned it with honeyed venom, with that sweetest of all toxins: love. A part of me is nauseated for even uttering so saccharine a sentence, but I cannot help myself, as I have been enchanted by the super-earthly elegance of an elven belle.</content>
-	<content contentuid="hbc5ade34gc898g4b1fg9ceag4b480c314444">New tutorial available: Dragon Morphing</content>
+	<content contentuid="hbc5ade34gc898g4b1fg9ceag4b480c314444">Доступне нове навчання: Перетворення в дракона</content>
 	<content contentuid="hbc5e5a9fg0329g4024g9822g5dcead99105f">Ґруміо</content>
 	<content contentuid="hbc65dcd6g64a3g4118gbbf7g8fe7567cddb9">Віддалити</content>
 	<content contentuid="hbc677d7eg147cg4735ga73eg2d05c55e264c">Battle Actions</content>
@@ -5575,7 +5575,7 @@ The more countries you occupy, the more research points you receive per turn.</c
 	<content contentuid="hc60fac4aga077g4d06g8d04gf6b470c92ce1">Isn&apos;t she a beauty, our Lady Lohannah? A pearl plucked from the Milky Way, delivered unto us blessed mortals.</content>
 	<content contentuid="hc610417fg8859g4ec9g8576g784c97bbd8f9">I am building another Battle Forge here,</content>
 	<content contentuid="hc6105a3ag765eg44bdga73dg966af4ce03de">Perhaps there is something to say for the affinity with which the elves regard nature, our great mother after all. I can see the merit in dwarven workmanship; the delicacy with which they shape jewellery and items so precious the world knows no like. Perhaps, perchance, conceivably...</content>
-	<content contentuid="hc615618bgf606g4d6fg9be3g27344ffc412d">Вибратии всі бойові одиниці</content>
+	<content contentuid="hc615618bgf606g4d6fg9be3g27344ffc412d">Виділити всі бойові одиниці</content>
 	<content contentuid="hc624baa0g12bfg4fdfg8785g489cbc38c0bc">Flat - DO NOT TRANSLATE</content>
 	<content contentuid="hc62be302ge665g41begb3b6ge6403376f8eb">Ambara</content>
 	<content contentuid="hc633e711gae43g4627g846ege82a4eead765">Yes, commander! We&apos;ll hack &apos;em to pieces and be back in time for happy hour!</content>
@@ -5586,7 +5586,7 @@ The more countries you occupy, the more research points you receive per turn.</c
 	<content contentuid="hc65c3d53g0d0ag4b04g90b5g319924cbcfc1">Тактичний хист</content>
 	<content contentuid="hc65f06a4g8f43g490ag8d5cg3566dbc433f8">Your Armours will have the Short Sharp Shock ability for one combat round.</content>
 	<content contentuid="hc65f2305g300dg412ega8dbgf9b7114f3803">Вправо</content>
-	<content contentuid="hc6636d2egba2cg4e8dgac1eg60528e10f2b6">Select units around me</content>
+	<content contentuid="hc6636d2egba2cg4e8dgac1eg60528e10f2b6">Виділити БО навколо дракона</content>
 	<content contentuid="hc66d9d66g72a3g48c9gb7fbg4065275cacc4">LIZARD PRINCESS WON EMPEROR&apos;S HEART! LADY CAMILLA NICKNAMED &apos;THE PROMISCUOUS PRINCESS&apos; ANONYMOUS SOURCES CLAIM</content>
 	<content contentuid="hc66fab72ge284g42bbgb213g9ac36acbe2e3">Максос</content>
 	<content contentuid="hc676f41bg242ag47f1gb26dg671cd4253134">В мережі</content>
@@ -5714,7 +5714,7 @@ Returning to Main Menu.</content>
 	<content contentuid="hca3ffb5cgd3a7g4178g9e62g38e39bfd5c42">To build new units, you need to capture construction sites</content>
 	<content contentuid="hca471e94g6193g4906g9747g83438a366e44">LOHANNAH BAKES CAKE TO APPEASE ANGERED DWARVES! &apos;EMPEROR FORCED HER HAND&apos; OBERON ASSERTS</content>
 	<content contentuid="hca4cac90g8ea1g44f8g99f7g0e6f8201f047">Always beware when the undead come along with a new proposition, Commander! Yorrick is not merely a snake in the grass, but a full-blown anaconda!</content>
-	<content contentuid="hca4fb413g1715g4852gbd2ag43f87ed71e1c">Підтримка</content>
+	<content contentuid="hca4fb413g1715g4852gbd2ag43f87ed71e1c">Забезпечення</content>
 	<content contentuid="hca55a02cg09f5g4266gbb1ag4bf0edcfd7cb">Good luck, dragon! May the divines be with you!</content>
 	<content contentuid="hca56474fg78c1g41cfg80efga4fdf75e7ff2">She&apos;s twelve and he a hundred... That is quite unacceptable. I shall draft a law that says women must themselves consent to marriage before nuptials are allowed.</content>
 	<content contentuid="hca6f15b4g393eg411bg9d2egf83003edce25">The Inquisition sought but to please your royal highness with the perfected extermination of heretical thought and the heightened influx of atoning operatives towards your war industry. May the Seven forgive this moment of profound weakness... </content>
@@ -5756,7 +5756,7 @@ Returning to Main Menu.</content>
 	<content contentuid="hcbe633d0g3f8dg4775g9dc5ga41f2fed3438">A friendly dragon can create a Pillar Of Restoration!</content>
 	<content contentuid="hcbea00b5gccc4g4f19ga657gbd057e1aea36">Shaman Heal Ally</content>
 	<content contentuid="hcbf073fdg4bf6g47c6g8a7bg1b5b7598c427">Know, my love, that Icaros has been deceived: he was granted his night between my sheets, but was embraced by stupor only, lulled to artificial sleep by opiate-enriched wine. Thus I kept my part of the bargain, and he was forced to leave the ship starved of satisfaction. The more fool him for questioning my devotion to the dragon.</content>
-	<content contentuid="hcbfd3865gf441g444fg8589g17f902535007">Вибрати все військо</content>
+	<content contentuid="hcbfd3865gf441g444fg8589g17f902535007">Виділити всі БО</content>
 	<content contentuid="hcc00b741gec83g4e14ga6e0gd34c82ed29d9">Вибрана навчика 9</content>
 	<content contentuid="hcc014802g1dd4g4d1cgae4dgb2eac6e675fd">**R2D2 alike sound** I know we&apos;re in trouble, just hang on!</content>
 	<content contentuid="hcc068e0fgdceag4172ga0d3gd63560c31be3">Tell me about edmund_5_0</content>
@@ -5874,7 +5874,7 @@ Returning to Main Menu.</content>
 	<content contentuid="hcff7003ag2575g433bg8c68gc1c9af23b11b">You&apos;re wasting the empire&apos;s resources, you know! All those donations end up in a couple of fat officials&apos; pockets. The populace doesn&apos;t even get a penny to divide between a hundred of them. I thought everybody knew that!</content>
 	<content contentuid="hcff71154g2428g4552g86a5g351ca8bf2d3c">We shall discuss this later.</content>
 	<content contentuid="hcff87605gb5f9g4695gafb9gcf073f495c5e">Популярність</content>
-	<content contentuid="hd002732ag2104g4416g8e89g09924a30f417">Recruitment Citadel(s)</content>
+	<content contentuid="hd002732ag2104g4416g8e89g09924a30f417">Центр(и) зайнятості</content>
 	<content contentuid="hd011036eg949bg4316g9007g375624ad3c0d">Armours loaded with Troopers that can perform the For the Empire! ability can be very deadly when they reach destination!</content>
 	<content contentuid="hd01868f2ga886g4b58gad22ge809b6951dfb">It is a challenging task indeed to face foes whose souls are enwrapped by demon cunning, but I have every faith they&apos;ll fall before you, like so many have before!</content>
 	<content contentuid="hd01912beg334cg49d3g8db1gc635e2702f53">If I&apos;m not mistaken it&apos;s the queen herself who presides over the case. Here&apos;s hoping she&apos;ll opt for the noose!</content>
@@ -6229,7 +6229,7 @@ Damage [1]</content>
 	<content contentuid="hdb58974eg281fg4a98ga6b5gb879f6e15a7c">That lemon water was a big success, you know! I&apos;m calling it lemonade.</content>
 	<content contentuid="hdb5f5565g41f5g4d86g849ag5e1dc39fce93">Imperial gold revenue adjustment</content>
 	<content contentuid="hdb741c73gb8feg46e5g9956g71aa02be1603">коли його власні сини та доньки повстали проти нього.</content>
-	<content contentuid="hdb803cbcgcd3cg4478g8f67gaf67e0a1ddeb">Підтримка</content>
+	<content contentuid="hdb803cbcgcd3cg4478g8f67gaf67e0a1ddeb">Забезпечення</content>
 	<content contentuid="hdb824420g108cg4266g9babg0ba20a350b2a">Use mines to block your opponent&apos;s advance through certain areas!</content>
 	<content contentuid="hdb91613cgbc7fg4379ga180gdbe8d1f03197">Aren&apos;t you sweet? You know what, you&apos;re absolutely right. I was chosen and I won&apos;t back down. O this is so exciting!</content>
 	<content contentuid="hdba3cce3gce1ag4ce7g8944g2ba3094742de">One of the many things one misses in the company of imps is a decent drink. Fire water mixed with a few spoons of gunpowder just doesn&apos;t float my boat.</content>
@@ -6237,7 +6237,7 @@ Damage [1]</content>
 	<content contentuid="hdbb144c7gf5fag4a67g9a8bgf9a35b9473b6">Now, I don&apos;t dispute that Lady Camilla is the judge and that the responsibility is hers, but she&apos;s also just a woman and they tend to be so… capricious.</content>
 	<content contentuid="hdbb30403gf73eg4c53gb20fg55d1ae771f2c">The lizard speaks true, commander. These women have no shame; no sense of respectability! When they feel inclined to feed their whelps, let them do so with a bit of decorum, in a place where none can behold their vulgarity.</content>
 	<content contentuid="hdbb9d534gffa7g49b1g870cg1b103300a280">Chemical warfare! Enemy grenadiers are ready to fight dirty, commander!</content>
-	<content contentuid="hdbbd1a39g252eg4132gb2d9g58e448518e68">Recruitment Citadel</content>
+	<content contentuid="hdbbd1a39g252eg4132gb2d9g58e448518e68">Центр зайнятості</content>
 	<content contentuid="hdbca0b3bg6cceg4da6g9df2gc774a0fde752">This is horrifying, Commander! People will be swayed by that elven rubbish! Sales will plummet! Revenues will be lost. We stand to lose heaps of gold, you and me both. Oh, I think I&apos;m going to be sick!</content>
 	<content contentuid="hdbd1bdf1gbcf5g4c4bg97d1ge4d0e1a7fe4f">You gravely disappoint, commander! Your support of the unions turns out to be a formality, for when the time comes to turn words into deeds, your generosity is suddenly found to be lacking!</content>
 	<content contentuid="hdbd7a253ga6bbg42e7g859dg22a489d58127">Does a moonday work for you? I know you have Capital Council then, but an execution is a plausible excuse, no?</content>
@@ -6371,7 +6371,7 @@ Damage [1]</content>
 	<content contentuid="he090447bgda1eg426ag9020g3f2173c7f49b">Right on, commander! I&apos;ve many a friend and informant in the civil service. Only fair to look out for their welfare!</content>
 	<content contentuid="he090afffgde97g4682g92abg7da2b1065bc1">Okay, who took an arrow to the knee? (tired)</content>
 	<content contentuid="he093163fgef63g4560ga90bg69f9e2380d47">Favourite unit</content>
-	<content contentuid="he0aa2337g8857g439dgafb1g39d7845a8813">Вибрати кораблебудівні заводи</content>
+	<content contentuid="he0aa2337g8857g439dgafb1g39d7845a8813">Виділити кораблебудівні заводи</content>
 	<content contentuid="he0aa9ec3g495cg461bga6bdg15de432e7675">And now what? You&apos;re married to a dwarf all squat and plump as if she&apos;s been hit over the head with a hammer one too many times. No, I don&apos;t envy you, Commander! Verily I don&apos;t!</content>
 	<content contentuid="he0b570c5g14d5g4604ga40dg16440ebc86ec">Population has depleted.</content>
 	<content contentuid="he0befdcfgd7b0g4bbeg8086g1df6380269ef">You find me in a reflective mood, commander. The bottom of a wineglass can serve as a gypsy&apos;s crystal, you see. Gaze upon it long enough, and times long past come parading afore one&apos;s eyes.</content>
@@ -6666,7 +6666,7 @@ Fire rate [2]</content>
 	<content contentuid="heb1da8b7gba0ag43f8g8b35g25e6a656cf21">O, never mind, my sweet, I&apos;m rambling about silly things, whereas we have a wedding to celebrate. I just know that you and I shall be blissfully happy!</content>
 	<content contentuid="heb1f6183g8160g4589g838cgaa9df88f06f5">Or you could show your magnanimity. Thelor is bound to know who is behind the theft of his ledger, so if you give it back no questions asked, perhaps he&apos;ll come to appreciate you more as a daughter.</content>
 	<content contentuid="heb3fae33g6152g4c6fg835fgd7eb50e5c63c">Your Shamans will have the Charm ability for one combat round.</content>
-	<content contentuid="heb45ae8ag602fg4413ga102g256243029ed5">Вибрати всі бойові од. навколо дракона</content>
+	<content contentuid="heb45ae8ag602fg4413ga102g256243029ed5">Виділити всі бойові од. навколо дракона</content>
 	<content contentuid="heb48ad02g80d3g4e99gbb6bg0dff211aa91b">Mass Cloak</content>
 	<content contentuid="heb4a4497gb475g4fafga453g0d74d4a3c6df">Загальна кількість знищених за допомоги дракона ворожих бойових одиниць.</content>
 	<content contentuid="heb75d28eg7893g4103gaeb1g42b59a5a41cb">Додає ракетні модулі до Мисливців, які дозволяють атакувати повітряні цілі. Ракети заподіюють [1] од. шкоди.</content>
@@ -6863,7 +6863,7 @@ Fire rate [2]</content>
 	<content contentuid="hf19c5613g716eg41d8ga479g74769d9315c7">It&apos;s my fault, so rings the cry; you should have given in to their demands, thus chants the crowd. Civil unrest&apos;s afoot. The masses are marching upon the capital, bent on mayhem. Do none of them have any regard for the procedures we followed, the laws we obeyed?</content>
 	<content contentuid="hf1a27f12g8e0ag4f0ag8f72g30ba2a56046a">Very wise of you, commander. Many people will be a bit agitated for a while, but that&apos;ll pass, especially when reports of new victories reach their ears. To war then, commander, for your sake as emperor.</content>
 	<content contentuid="hf1b1e331gd404g4fdbgae67g84a36f4c7575">Now for some advanced techniques, commander!</content>
-	<content contentuid="hf1c2dabdg1cd5g4c4dg9477g9f3808f739d7">This site supports the construction of Aerofactory and Shipyards.</content>
+	<content contentuid="hf1c2dabdg1cd5g4c4dg9477g9f3808f739d7">На цьому місці можна побудувати Авіа або Кораблебудівний завод.</content>
 	<content contentuid="hf1dc23ecgfd65g4a72g995agf928d8fddbc4">Will you allow the imps to use elven remains to make gunpowder?</content>
 	<content contentuid="hf1dd5080g8e2fg417egb50eg82f612b6ee9c">Sabotage!</content>
 	<content contentuid="hf1e4b677g3910g4b1ega9c2g5ccab29c07fc">If you weren&apos;t a dragon, we wouldn&apos;t stand a chance. So buckle up, commander, for our endeavour stands or falls with you.</content>
@@ -7097,7 +7097,7 @@ Play a multiplayer [2] ladder game to show up in the leaderboards!</content>
 Be a dear and help [2] out.</content>
 	<content contentuid="hfa4f05a5g9cf7g404ag98ddg341abedb611d">Good! Besides, Yorrick&apos;s idea probably wouldn&apos;t have been very effective anyway. Can you imagine a bunch of undead roaming the streets dressed in Inquisitor&apos;s robes? They&apos;d be easier to spot than the sun in the sky!</content>
 	<content contentuid="hfa4fda84ga4cdg47f0g8c4ag0f1b27c23489">She will be beautiful, so that at long last I, too, shall be beautiful and truly worthy of your sweet devotion.</content>
-	<content contentuid="hfa53ef9dgf1e6g4340g85c1g67b9ff329aea">Кількість золота за самочинне вирішення битви цим генералом.</content>
+	<content contentuid="hfa53ef9dgf1e6g4340g85c1g67b9ff329aea">Кількість золота за саморозв&apos;язання битви цим генералом.</content>
 	<content contentuid="hfa668a4bg2f69g453bgbf99ga1c29ae0f383">We&apos;re in that annoying grey zone, Commander, and whether we win or lose is entirely up to your gift for warfare. No pressure.</content>
 	<content contentuid="hfa762a6ag8136g423bg9039g0f0f93b3aab2">Причарування</content>
 	<content contentuid="hfa913a93gc6c3g43cegb195g53da2b70f026">Respected empire general overheard saying: &quot;We may have won this battle, but we have lost our principles&quot;</content>
