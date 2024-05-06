@@ -55,3 +55,4 @@ destructive power - руйнівна міць
 Recruitment Centers - Центри зайнятості
 Waypoint - Місце зібрання
 Build site - місце під будівлю
+Hold Position - Утримувати місцину
