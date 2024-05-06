@@ -71,7 +71,7 @@ void MoveTranslationToXML(LPCWSTR sPath2CSV)
 	out.close();
 
 	std::wofstream newFile(sPathToXML);
-	newFile.imbue(std::locale());
+	newFile.imbue(std::locale(), new std::codecvt_utf8<wchar_t>));
 
 	newFile << sOut.c_str();
 
