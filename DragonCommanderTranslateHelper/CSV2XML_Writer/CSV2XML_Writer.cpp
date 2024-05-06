@@ -71,7 +71,7 @@ void MoveTranslationToXML(LPCWSTR sPath2CSV)
 	out.close();
 
 	std::wofstream newFile(sPathToXML);
-	newFile.imbue(std::locale(), new std::codecvt_utf8<wchar_t>));
+	newFile.imbue(std::locale(newFile.getloc(), new std::codecvt_utf8<wchar_t>));
 
 	newFile << sOut.c_str();
 
@@ -84,7 +84,17 @@ int main()
 
 	std::vector<std::wstring> aPaths
 	{
-		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Hints\Hints.txt)",
+		//LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Subtitles\CombatMoveAround.lsx)",
+		//LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Subtitles\CombatOnBuildingSelected.lsx)",
+		//LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Subtitles\CombatOnCloseToCapturePoint.lsx)",
+		//LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Subtitles\CombatOnConstructionSiteSelected.lsx)",
+		//LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Subtitles\CombatOnMoneyForDragon.lsx)",
+		//LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Subtitles\CombatOnTurnedIntoDragon.lsx)",
+		//LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Subtitles\Game_Intro.lsx)",
+		//LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Subtitles\Game_Outro.lsx)",
+		//LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Subtitles\Game_Over.lsx)",
+		//LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Subtitles\Go_To_Phase_2.lsx)",
+		//LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Subtitles\Go_To_Phase_3.lsx)"
 	};
 
 
