@@ -47,7 +47,7 @@ void MoveTranslationToXML(LPCWSTR sPath2CSV)
 	std::wstring sOut;
 	std::wifstream out(sPathToXML, std::ios::binary);
 	out.imbue(std::locale(out.getloc(), new std::codecvt_utf8<wchar_t, 0x10ffff, std::little_endian>));
-	while (std::getline(out, str) && !str.empty())
+	while (std::getline(out, str, L'\r') && !str.empty())
 	{
 		for (size_t i = 0; i < aTranslation.size(); i++)
 		{
@@ -67,6 +67,7 @@ void MoveTranslationToXML(LPCWSTR sPath2CSV)
 
 
 		sOut.append(str);
+		sOut.append(L"\r");
 	}
 	out.close();
 
@@ -84,6 +85,8 @@ int main()
 
 	std::vector<std::wstring> aPaths
 	{
+		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\_templates_\In Progress\Grumio\end_turn_grumio.csv)",
+		LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Gameplay\Story\Dialogs\_templates_\In Progress\Grumio\default_dialog_grumio.csv)",
 		//LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Subtitles\CombatMoveAround.lsx)",
 		//LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Subtitles\CombatOnBuildingSelected.lsx)",
 		//LR"(D:\SteamLibrary\steamapps\common\Divinity Dragon Commander\Data\Mods\Main\Subtitles\CombatOnCloseToCapturePoint.lsx)",
